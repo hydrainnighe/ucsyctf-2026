@@ -2,7 +2,7 @@
 This challenge is tricky for me and need times to solve
 
 
-first the challenge doesn't have a lot of functions , i cant find the important functions like mains and othes.
+first the challenge doesn't have a lot of functions , i cant find the important functions like mains and others.
 
 <img width="1920" height="1045" alt="cantfindmain" src="https://github.com/user-attachments/assets/90a8a58f-6144-43bc-8560-2bb0d7d2bc8a" />
 
