@@ -59,6 +59,6 @@ then we analyze the other encode1,2,3 and they are all using various methods lik
 <img width="1922" height="1047" alt="finalflag" src="https://github.com/user-attachments/assets/b85c3da0-e3f3-426d-ab9b-d8c71a00269b" />
 
 
-
+actually we need to understand the ciphers and functions .
 
 the final flag was ucsyctf{gogo_squ4d_r3v3rs1ng_ftw}!!
